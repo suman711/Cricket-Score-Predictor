@@ -38,4 +38,5 @@ The Cricket Score Predictor uses historical match data to forecast the scores of
 - The predicted score was very much closer to the real score scored by the team.
 - I used HTML and Flask to visualize the interface of the score predictor where we can choose any of the 10 International Teams.
 
-![Result Video](static/videos/cricket_score_predictor.mp4)
+https://github.com/suman711/cricket-score-predictor/assets/63961815/88ecd08e-b21f-4697-970d-90185cbc0453
+
