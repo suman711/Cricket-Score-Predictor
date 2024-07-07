@@ -2,6 +2,8 @@
 ![Cricket](static/images/cricket.jpg)
 
 This Project is designed to predict the Score of T20 Cricket Matches using ML with PYTHON,FLASK,HTML.
+![Result](static/images/Resultcsp.jpg)
+![Result Check](static/images/ResultCheckcsp.jpg)
 
 ## Table of Contents
 
@@ -35,6 +37,3 @@ The Cricket Score Predictor uses historical match data to forecast the scores of
 - The results gave us the predicted score as shown in the image below.
 - The predicted score was very much closer to the real score scored by the team.
 - I used HTML and Flask to visualize the interface of the score predictor where we can choose any of the 10 International Teams.
-
-![Result](static/images/Resultcsp.jpg)
-![Result Check](static/images/ResultCheckcsp.jpg)
