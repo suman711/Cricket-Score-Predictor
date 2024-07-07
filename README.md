@@ -1,1 +1,1 @@
-# cricket-score-predictor
+# cricket_score_predictor
