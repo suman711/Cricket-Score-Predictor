@@ -1,5 +1,5 @@
 # Cricket Score Predictor
-![Cricket](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.livemint.com%2Fsports%2Fcricket-news%2Fmy-heart-rate-was-up-ms-dhoni-first-instagram-post-2024-india-win-t20-world-cup-south-africa-11719710197453.html&psig=AOvVaw3qamfUKLMp1Dks0F8W0vYR&ust=1720468265707000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj84fXZlYcDFQAAAAAdAAAAABAE)
+![Cricket](static/images/cricket.jpg)
 
 This Project is designed to predict the Score of T20 Cricket Matches using ML with PYTHON,FLASK,HTML.
 
