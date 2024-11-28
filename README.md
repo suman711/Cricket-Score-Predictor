@@ -1,7 +1,7 @@
-# Cricket Score Predictor
+# Cricket Game Score Predictor
 ![Cricket](static/images/cricket.jpg)
 
-This Project is designed to predict the Score of T20 Cricket Matches using ML with PYTHON,FLASK,HTML.
+This Project is designed to predict the Score of T20 Cricket Gamess using ML with PYTHON,FLASK,HTML.
 ![Result](static/images/Resultcsp.jpg)
 ![Result Check](static/images/ResultCheckcsp.jpg)
 
@@ -15,18 +15,18 @@ This Project is designed to predict the Score of T20 Cricket Matches using ML wi
 
 ## Introduction
 
-The Cricket Score Predictor uses historical match data to forecast the scores of cricket games. It leverages machine learning algorithms to analyze past performances and predict future outcomes.
+The Cricket Score Predictor uses historical game data to forecast the scores of cricket games. It leverages machine learning algorithms to analyze past performances and predict future outcomes.
 
 ## Features
 
-- Predict scores for upcoming cricket matches.
-- Analyze historical match data.
+- Predict scores for upcoming cricket games.
+- Analyze historical game data.
 - Give 94.7% accuracy in the predicted score.
 
 ## Dataset
 
 - The dataset has data from multiple international teams and the T20 matches they played against each other with runs per ball.
-- It also has the venue where the match was played, which plays an important role in deriving the predicted score.
+- It also has the venue where the game was played, which plays an important role in deriving the predicted score.
 
 ## Tools Used
 ![Python](https://miro.medium.com/v2/resize:fit:1400/1*ycIMlwgwicqlO6PcFRA-Iw.png)
